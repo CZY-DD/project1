@@ -14,6 +14,7 @@ int main(int argc, char *argv[])
 	printf("hello world\n");
 	printf("hello czy\n");
 	printf("1234");
+	printf("=============\n");
 	return 0;
 }
 
