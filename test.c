@@ -15,7 +15,7 @@
 int main(int argc, char *argv[])
 {
 	printf("hello world\n");
-	
+	printf("hello czy\n");
 	return 0;
 }
 
