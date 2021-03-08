@@ -7,15 +7,13 @@
 *   描    述：菜鸟
 *
 ================================================================*/
-
-
 #include <stdio.h>
-
 
 int main(int argc, char *argv[])
 {
 	printf("hello world\n");
 	printf("hello czy\n");
+	
 	return 0;
 }
 
